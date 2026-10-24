@@ -10,3 +10,7 @@ body{
 pre{
     font-size: 20px;
 }
+
+button{
+    background-color: lightcyan;
+}
